@@ -18,7 +18,8 @@ export function EducationComponent() {
                 listOfCourses.map(function (c) {
                     return (
                         <div
-                            className='bg-medGreen text-pale rounded m-4 p-4 shadow-lg'>
+                            className='bg-medGreen text-pale rounded
+                            m-4 p-8 shadow-lg'>
                             <div className='font-medium text-xl'>
                                 {c.title}
                             </div>

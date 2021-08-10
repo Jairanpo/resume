@@ -18,7 +18,7 @@ export function ExperienceComponent() {
                     return (
                         <div
                             className='text-pale bg-medGreen border
-                            rounded p-2 m-2 shadow-lg'>
+                            rounded p-8 m-2 shadow-lg'>
                             <div className='font-bold text-3xl'>
                                 {e.place}
                             </div>
