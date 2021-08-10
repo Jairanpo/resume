@@ -21,7 +21,7 @@ export default function Home() {
         <div className="h-full w-full font-roboto">
             <div className='h-screen w-screen fixed'>
                 <Image src='/background/bg.jpg' layout='fill'
-                       className='opacity-70'/>
+                       className=''/>
             </div>
             <div className='relative z-10 p-8 container m-auto'>
                 <div className='flex justify-center'>
