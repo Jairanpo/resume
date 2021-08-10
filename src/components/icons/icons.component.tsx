@@ -13,7 +13,7 @@ import Image from 'next/image'
 
 export function IconsComponent() {
     return (
-        <div>
+        <div className='text-center'>
             <Image src={'/docker.png'} width={100} height={100}/>
             <Image src={'/js.png'} width={100} height={100}/>
             <Image src={'/python.png'} width={100} height={100}/>

@@ -32,7 +32,7 @@ export function ExperienceComponent() {
                                     e.technologies.map(function (t) {
                                         return (
                                             <div
-                                                className='
+                                                className='font-black
                                                 rounded bg-lightWarm px-1 m-1
                                                 text-medGreen'>
                                                 {t}

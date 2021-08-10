@@ -21,15 +21,16 @@ export default function Home() {
             <div className='flex justify-center'>
                 <HeaderComponent/>
             </div>
-            <hr/>
-            <div className='text-2xl text-warm font-bold my-4'>Experience:</div>
+            <hr className='mt-4'/>
+            <div className='text-2xl text-warm font-black my-4'>Experience:
+            </div>
             <div className='flex flex-row'>
                 <ExperienceComponent/>
                 <IconsComponent/>
             </div>
-            <hr/>
+            <hr className='mt-4'/>
             <div>
-                <div className='text-2xl text-warm font-bold my-4'>Education:
+                <div className='text-2xl text-warm font-black my-4'>Education:
                 </div>
                 <EducationComponent/>
             </div>

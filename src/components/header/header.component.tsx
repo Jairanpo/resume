@@ -16,17 +16,25 @@ export function HeaderComponent() {
         h-full text-medGreen flex py-2
         ">
             <div className="flex flex-row items-center">
-                <div className="text-3xl font-bold text-center">
-                    Jair Anguiano Porras
-                    <div className="text-lg">
-                        Software Developer | Pipeline TD
-                    </div>
-                    <div className="text-lg">
-                        Guadalajara. Jalisco. México.
+                <div className="text-medGreen text-6xl font-bold text-center">
+                    Jair Anguiano
+                    <div
+                        className='text-medGreen text-opacity-80 my-2 text-center'>
+                        <div className="text-xl">
+                            Jesús Jair Anguiano Porras
+                        </div>
+                        <div className="text-xl">
+                            Software Developer | Pipeline TD
+                        </div>
+                        <div className="text-xl">
+                            Guadalajara. Jalisco. México.
+                        </div>
+
                     </div>
                 </div>
                 <div
-                    className="mx-4 text-md font-medium grid text-right bg-lightWarm rounded p-4">
+                    className="mx-4 text-md font-medium grid
+                    font-bold bg-lightWarm rounded p-4">
                     <div>
                         jairanpo@gmail.com
                     </div>
