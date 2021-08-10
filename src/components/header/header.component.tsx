@@ -34,7 +34,7 @@ export function HeaderComponent() {
                 </div>
                 <div
                     className="mx-4 text-md font-medium grid
-                    font-bold bg-lightWarm rounded p-4">
+                    font-bold text-pale bg-medGreen rounded p-4">
                     <div>
                         jairanpo@gmail.com
                     </div>

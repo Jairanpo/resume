@@ -22,7 +22,7 @@ export default function Home() {
                 <HeaderComponent/>
             </div>
             <hr className='mt-4'/>
-            <div className='text-2xl text-warm font-black my-4'>Experience:
+            <div className='text-3xl text-warm font-black my-4'>Experience:
             </div>
             <div className='flex flex-row'>
                 <ExperienceComponent/>
@@ -30,7 +30,7 @@ export default function Home() {
             </div>
             <hr className='mt-4'/>
             <div>
-                <div className='text-2xl text-warm font-black my-4'>Education:
+                <div className='text-3xl text-warm font-black my-4'>Education:
                 </div>
                 <EducationComponent/>
             </div>
