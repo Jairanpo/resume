@@ -26,13 +26,14 @@ export default function Home() {
             </div>
             <div className='flex flex-row'>
                 <ExperienceComponent/>
-                <IconsComponent/>
-            </div>
-            <hr className='mt-4'/>
-            <div>
-                <div className='text-3xl text-warm font-black my-4'>Education:
+                <div>
+                    <IconsComponent/>
+                    <hr className='mt-4'/>
+                    <div
+                        className='text-3xl text-warm font-black my-4'>Education:
+                    </div>
+                    <EducationComponent/>
                 </div>
-                <EducationComponent/>
             </div>
         </div>
     )
