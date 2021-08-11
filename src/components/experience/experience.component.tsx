@@ -17,7 +17,7 @@ export function ExperienceComponent() {
                 listOfExperiences.map((e) => {
                     return (
                         <div
-                            className='text-pale bg-medGreen
+                            className='text-pale bg-medGreen bg-opacity-70
                             rounded p-8 m-2 shadow-2xl'>
                             <div className='font-bold text-3xl'>
                                 {e.place}
@@ -34,8 +34,8 @@ export function ExperienceComponent() {
                                         return (
                                             <div
                                                 className='font-black
-                                                rounded bg-lightWarm px-1 m-1
-                                                text-medGreen'>
+                                                rounded bg-lightWarm px-2 m-1
+                                                text-medGreen py-1'>
                                                 {t}
                                             </div>
                                         )

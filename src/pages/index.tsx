@@ -18,17 +18,13 @@ import {EducationComponent} from "../components/education/education.component";
 
 export default function Home() {
     return (
-        <div className="h-full w-full font-roboto">
-            <div className='h-screen w-screen fixed'>
-                <Image src='/background/bg.jpg' layout='fill'
-                       className=''/>
-            </div>
-            <div className='relative z-10 p-8 container m-auto'>
+        <div className="h-full w-full font-roboto container mx-auto">
+            <div className='relative z-10 p-8'>
                 <div className='flex justify-center'>
                     <HeaderComponent/>
                 </div>
                 <hr className='mt-4'/>
-                <div className='text-3xl text-warm font-black my-4'>Experience:
+                <div className='text-4xl text-darkGreen font-black my-4'>Experience:
                 </div>
                 <div className='flex flex-row'>
                     <ExperienceComponent/>
@@ -36,7 +32,7 @@ export default function Home() {
                         <IconsComponent/>
                         <hr className='mt-4'/>
                         <div
-                            className='text-3xl text-warm font-black my-4'>Education:
+                            className='text-4xl text-darkGreen font-black my-4'>Education:
                         </div>
                         <EducationComponent/>
                     </div>

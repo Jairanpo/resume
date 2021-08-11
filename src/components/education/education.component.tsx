@@ -19,7 +19,7 @@ export function EducationComponent() {
                     return (
                         <div
                             className='bg-medGreen text-pale rounded
-                            m-4 p-8 shadow-lg'>
+                            m-4 p-8 shadow-lg bg-opacity-70'>
                             <div className='font-medium text-xl'>
                                 {c.title}
                             </div>
