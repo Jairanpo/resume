@@ -12,6 +12,10 @@ module.exports = {
             lightWarm: '#c4a384',
             warm: '#b56f3a',
             pale: '#ece9e4'
+        },
+        scale: {
+            '102': '1.02',
+            '105': '1.05'
         }
     },
     variants: {
