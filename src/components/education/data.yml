@@ -1,36 +1,33 @@
 en:
-  - title: Technical Support Fundamentals. Certificate earned at Tuesday, July 23, 2019 4:36 AM GMT
+  - title: 'Technical Support Fundamentals. Certificate earned at Tuesday, July 23, 2019 4:36 AM GMT'
     link: 'https://coursera.org/share/0043ca93cf2c4e2e43a819235e339e72'
     academy: Google
     location: Coursera.com
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title: The Bits and Bytes of Computer Networking. Certificate earned at Tuesday, July 23, 2019 4:36 AM GMT
+  - title: 'The Bits and Bytes of Computer Networking. Certificate earned at Tuesday, July 23, 2019 4:36 AM GMT'
     link: 'https://coursera.org/share/eb426a1e622626b1bc9e6a378ffec2df'
     academy: Google
     location: Coursera.com
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title:
-      'Operating Systems and You: Becoming a Power User. Certificate earned at Saturday, September 14, 2019 5:48 PM GMT'
+  - title: 'Operating Systems and You. Becoming a Power User. Certificate earned at Saturday, September 14, 2019 5:48 PM GMT'
     link: 'https://coursera.org/share/e993a83fa423d16ad7745f6aa3696a9a'
     academy: Google
     location: Coursera.com
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title:
-      System Administration and IT Infrastructure Services. Certificate earned at Wednesday, November 13, 2019 10:36 PM GMT
+  - title: 'System Administration and IT Infrastructure Services. Certificate earned at Wednesday, November 13, 2019 10:36 PM GMT'
     link: "https://coursera.org/share/da628e9dc52003d936b5f52a9ec0090f"
     academy: "Google"
     location: "Coursera.com"
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title:
-      "IT Security: Defense against the digital dark arts. Certificate earned at Monday, January 20, 2020 11:19 PM GMT"
+  - title: 'IT Security. Defense against the digital dark arts. Certificate earned at Monday, January 20, 2020 11:19 PM GMT'
     link: 'https://coursera.org/share/ffb842a802ac0f9f64b812fac15576f2'
     academy: Google
     location: Coursera.com
@@ -44,7 +41,7 @@ en:
     icons:
       - '/education/uad.png'
 sp:
-  - title: Soporte Técnico. Certificado obtenido at Martes, Julio 23, 2019 4:36 AM GMT
+  - title: 'Soporte Técnico. Certificado obtenido at Martes, Julio 23, 2019 4:36 AM GMT'
     link: 'https://coursera.org/share/0043ca93cf2c4e2e43a819235e339e72'
     academy: Google
     location: Coursera.com
@@ -58,24 +55,21 @@ sp:
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title:
-      'Operating Systems and You: Becoming a Power User. Certificate earned at Saturday, September 14, 2019 5:48 PM GMT'
+  - title: 'Operating Systems and You. Becoming a Power User. Certificate earned at Saturday, September 14, 2019 5:48 PM GMT'
     link: 'https://coursera.org/share/e993a83fa423d16ad7745f6aa3696a9a'
     academy: Google
     location: Coursera.com
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title:
-      System Administration and IT Infrastructure Services. Certificate earned at Wednesday, November 13, 2019 10:36 PM GMT
+  - title: 'System Administration and IT Infrastructure Services. Certificate earned at Wednesday, November 13, 2019 10:36 PM GMT'
     link: "https://coursera.org/share/da628e9dc52003d936b5f52a9ec0090f"
     academy: "Google"
     location: "Coursera.com"
     icons:
       - '/education/google.png'
       - '/education/coursera.png'
-  - title:
-      "IT Security: Defense against the digital dark arts. Certificate earned at Monday, January 20, 2020 11:19 PM GMT"
+  - title: 'IT Security. Defense against the digital dark arts. Certificate earned at Monday, January 20, 2020 11:19 PM GMT'
     link: 'https://coursera.org/share/ffb842a802ac0f9f64b812fac15576f2'
     academy: Google
     location: Coursera.com
@@ -88,3 +82,4 @@ sp:
     location: Guadalajara. Jalisco. Mexico
     icons:
       - '/education/uad.png'
+

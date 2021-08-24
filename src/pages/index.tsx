@@ -38,10 +38,10 @@ export default function Home() {
                 <div
                     className='w-full flex justify-center gap-2 text-xl m-6'>
                     <button onClick={handleLanguage('en')}
-                            className={settings.lang === 'en' && 'underline'}>English
+                        className={settings.lang === 'en' ? 'underline' : ''}>English
                     </button>
                     <button onClick={handleLanguage('sp')}
-                            className={settings.lang === 'sp' && 'underline'}>Español
+                        className={settings.lang === 'sp'? 'underline' : ''}>Español
                     </button>
                 </div>
                 <div

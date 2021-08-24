@@ -10,7 +10,7 @@ import {createContext, useState} from "react";
 // project:
 // ============================================================================
 
-export const SettingsContext = createContext({lang: 'en'})
+export const SettingsContext = createContext({lang: null, changeLanguage: null})
 
 
 export function SettingsProvider({children}) {

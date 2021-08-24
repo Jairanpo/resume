@@ -1,5 +1,6 @@
 // libraries:
 import {useContext} from "react";
+import {v4 as uuid} from 'uuid';
 // -- -- -- -- -- -- -- -- -- -- -- -- -- --
 // Contexts:
 import {SettingsContext} from "../../contexts/SettingsContext";
@@ -9,7 +10,7 @@ import {SettingsContext} from "../../contexts/SettingsContext";
 // components:
 // -- -- -- -- -- -- -- -- -- -- -- -- -- --
 // project:
-import data from './data.yml'
+const data = require('./data.yml')
 //=============================================================================
 
 
@@ -19,9 +20,10 @@ export default function Experience() {
     return (
         <div>
             {
-                data[settings.lang].map((e) => {
+                data[settings.lang].map((e, i) => {
                     return (
                         <div
+                            key={uuid()}
                             className='bg-green'>
                             <div className='font-bold text-3xl'>
                                 {e.place}
@@ -37,6 +39,7 @@ export default function Experience() {
                                     e.technologies.map(function (t) {
                                         return (
                                             <div
+                                                key={uuid()}
                                                 className='font-black
                                                 rounded bg-lightWarm px-2 m-1
                                                 text-medGreen py-1'>

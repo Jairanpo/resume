@@ -2,6 +2,7 @@
 import Link from 'next/link'
 import {useContext} from "react";
 import Image from 'next/image'
+import {v4 as uuid} from 'uuid'
 // -- -- -- -- -- -- -- -- -- -- -- -- -- --
 // Contexts:
 import {SettingsContext} from "../../contexts/SettingsContext";
@@ -11,17 +12,7 @@ import {SettingsContext} from "../../contexts/SettingsContext";
 // components:
 // -- -- -- -- -- -- -- -- -- -- -- -- -- --
 // project:
-//=============================================================================
-// libraries:
-// -- -- -- -- -- -- -- -- -- -- -- -- -- --
-// Contexts:
-// -- -- -- -- -- -- -- -- -- -- -- -- -- --
-// layouts:
-// -- -- -- -- -- -- -- -- -- -- -- -- -- --
-// components:
-// -- -- -- -- -- -- -- -- -- -- -- -- -- --
-// project:
-import data from './data.yml'
+const data = require('./data.yml')
 // ============================================================================ 
 
 
@@ -30,9 +21,10 @@ export default function Education() {
     return (
         <div>
             {
-                data[settings.lang].map(function (c) {
+                data[settings.lang].map(function (c, i) {
                     return (
                         <div
+                            key={uuid()}
                             className='bg-green'>
                             <div>
                                 <div
@@ -66,7 +58,7 @@ function Icons({icons}) {
                 icons.map(
                     (i) => {
                         return (
-                            <Image key={i} width={100} height={200}
+                            <Image key={uuid()} width={100} height={200}
                                    objectFit='scale-down'
                                    src={i}/>
                         )
