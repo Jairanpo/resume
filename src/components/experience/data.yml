@@ -1,6 +1,7 @@
 en:
   - place: Mighty Animation
     position: Head of Pipeline Development
+    period: 'May 2020 - Present'
     description: >-
       Support development of new features required for the
       development of the show FriendzSpace in conjunction with FlyingBark
@@ -19,6 +20,7 @@ en:
       - Maya
   - place: Independent Fullstack Developer
     position: Developer
+    period: 'May 2015 - Present'
     description: >-
       I been contracted to work independently for several
       companies like La Epoca Film, L.A. CETTO and Tamashii. The projects
@@ -42,6 +44,7 @@ en:
       - Wordpress
   - place: Ool Digital
     position: Technical Director & SysAdmin
+    period: 'March 2019 - March 2020'
     description: >-
       I was in charge of creating the data flow among
       all the departments involved on the creation of CG content
@@ -60,6 +63,7 @@ en:
       - Redshift
   - place: Talent Network
     position: Fullstack Developer
+    period: 'October 2018 - March 2019'
     description: >-
       Backend development of a RestAPI service,
       and deployed the database designed for it.
@@ -79,6 +83,7 @@ en:
       - 'Redshift'
   - place: 'Huevocartoon'
     position: 'Layout Technical Director'
+    period: 'September 2012 - April 2014 | October 2017 - October 2018'
     description: >-
       Creating tools for the cinematography team and using several CG and VFX APIs.
       Cloth simulation system on top of nCloth system to improve delivery times for the VFX department.
@@ -98,6 +103,7 @@ en:
       - 'Illustrator'
   - place: 'Metacube'
     position: 'Layout and Technical Artist'
+    period: 'August 2015 - December 2015'
     description: >-
       I collaborated as an artist working on the ciematography
       for the film Salma's Big Wish,also developed scripts that
@@ -111,6 +117,7 @@ en:
 sp:
   - place: Mighty Animation
     position: Lead en Desarrollo de Pipeline
+    period: 'Mayo 2020 - Present'
     description: >-
       Apoyar el desarrollo de nuevas funciones necesarias para el
       desarrollo de la serie FriendzSpace en conjunto con FlyingBark
@@ -129,6 +136,7 @@ sp:
       - Maya
   - place: Desarrollador Independiente Fullstack
     position: 'Developer'
+    period: 'Agosto 2015 - Present'
     description: >-
       He trabajado como independiente para diversas compañias como La Epoca Film,
       L.A. CETTO, Brandmasters, y Tamashii. Los proyectos en los que he trabajado van desde plataformas
@@ -148,6 +156,7 @@ sp:
       - Wordpress
   - place: 'Ool Digital'
     position: 'IT & Director Técnico'
+    period: 'Marzo 2019 - Marzo 2020'
     description: >-
       Estuve encargado de la elaboración de un flujo de trabajo que permitiera
       organizar y relacionar información generada por los distintos departamentos,
@@ -164,6 +173,7 @@ sp:
       - 'Redshift'
   - place: 'Talent Network'
     position: 'Desarrollador Fullstack'
+    period: 'Octubre 2018 - Marzo 2019'
     description: >-
       Desarrolle el backend de un servicio de RestAPI utiliando Node, Express y
       PostgreSQL. Para el frontend apoye para la implementación de la lógica
@@ -182,6 +192,7 @@ sp:
       - 'Redshift'
   - place: 'Huevocartoon'
     position: 'Director Técnico y Artista de Layout'
+    period: 'Septiembre 2012 - Abril 2014 | Octubre 2017 - Octubre 2018'
     description: >-
       Colabore creando herramientas en python para el equipo de cinematografía y VFX. Aunque
       también tuve una participación del lado artistico colaborando en crear puestas en
@@ -198,6 +209,7 @@ sp:
       - 'Illustrator'
   - place: 'Metacube'
     position: 'Artista de Layout'
+    period: 'Agosto 2015 - Diciembre 2015'
     description: >-
       Trabaje como artista de layout, ayudando al equipo a realizar la puesta de escena
       de la película.

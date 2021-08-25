@@ -29,8 +29,8 @@ export default function Home() {
     }
 
     return (
-        <div className="h-full w-screen font-roboto xl:container xl:mx-auto">
-            <div className='relative z-10 p-8'>
+        <div className="h-full w-full font-roboto md:container md:m-auto">
+            <div className='relative z-10 md:p-8'>
                 <div className='w-full flex justify-center'>
                     <HeaderComponent/>
                 </div>

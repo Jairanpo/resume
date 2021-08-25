@@ -31,7 +31,10 @@ export default function Experience() {
                             <div className='text-lg underline'>
                                 {e.position}
                             </div>
-                            <div className='py-4 text-justify'>
+                            <div className='text-lg'>
+                                {e.period}
+                            </div>
+                            <div className='py-4 text-justify w-full'>
                                 {e.description}
                             </div>
                             <div className='flex flex-row flex-wrap'>

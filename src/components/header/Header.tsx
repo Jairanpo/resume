@@ -15,7 +15,7 @@ export function HeaderComponent() {
     return (<div className="
         h-full text-medGreen flex py-2
         ">
-            <div className="flex flex-row items-center">
+            <div className="flex flex-col md:flex-row items-center">
                 <div className="text-medGreen text-5xl font-bold text-center">
                     Jair Anguiano
                     <div

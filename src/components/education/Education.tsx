@@ -28,7 +28,7 @@ export default function Education() {
                             className='bg-green'>
                             <div>
                                 <div
-                                    className='text-2xl font-bold flex flex-row items-center'>
+                                    className='text-2xl font-bold flex flex-row items-center flex-wrap'>
                                     <div className='flex-grow'>{c.academy}</div>
                                 </div>
                                 <Icons icons={c.icons}/>
@@ -36,7 +36,7 @@ export default function Education() {
                             <div className='font-medium text-md'>
                                 {c.title}
                             </div>
-                            <div>
+                            <div className='break-all'>
                                 <Link href={c.link}>
                                     <a>
                                         {c.link}
