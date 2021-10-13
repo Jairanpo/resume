@@ -24,14 +24,14 @@ export default function Experience() {
                     return (
                         <div
                             key={uuid()}
-                            className='bg-green'>
+                            className='bg-green text-lg'>
                             <div className='font-bold text-3xl'>
                                 {e.place}
                             </div>
-                            <div className='text-lg underline'>
+                            <div className='text-xl underline'>
                                 {e.position}
                             </div>
-                            <div className='text-lg'>
+                            <div className=''>
                                 {e.period}
                             </div>
                             <div className='py-4 text-justify w-full'>

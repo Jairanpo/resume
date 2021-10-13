@@ -19,6 +19,8 @@ export function IconsComponent() {
             <Image className='icon' src={'/js.png'} width={100} height={100}/>
             <Image className='icon' src={'/python.png'} width={100}
                    height={100}/>
+            <Image className='icon' src={'/shotgrid.png'} width={100}
+                   height={100}/>
             <Image className='icon' src={'/git.png'} width={100} height={100}/>
             <Image className='icon' src={'/graphql.png'} width={100}
                    height={100}/>

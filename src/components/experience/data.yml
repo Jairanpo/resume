@@ -3,16 +3,19 @@ en:
     position: Head of Pipeline Development
     period: 'May 2020 - Present'
     description: >-
-      Support development of new features required for the
-      development of the show FriendzSpace in conjunction with FlyingBark
-      Studios, as a team we where able to deploy systems that
+      Development of pipeline with python required for the
+      creation of the show FriendzSpace in conjunction with FlyingBark
+      Studios. As a team we where able to deploy systems that
       help us support and coordinate massive data delivery and registers
       between the companies involved, also create tools that allow artists to get
       the data required for their department in an organized and easier
       way. I also have the opportunity to work and communicate with a client
       at Australia which was a very important opportunity to understand how
       to comunicate, negotiate and develop empathy with clients.
+      I also had the experience of mentoring new talent about best code practices
+      how to properly address tech support with users.
     technologies:
+      - Shotgrid
       - Python
       - AWS
       - PySide
@@ -34,14 +37,15 @@ en:
       - Docker
       - Node
       - React
-      - Next.js
       - Vue
       - Next.js
+      - Nuxt.js
       - Python
       - Webpack
       - C#
       - Unity
       - Wordpress
+      - Travis-CI
   - place: Ool Digital
     position: Technical Director & SysAdmin
     period: 'March 2019 - March 2020'
@@ -191,8 +195,8 @@ sp:
       - 'Maya'
       - 'Redshift'
   - place: 'Huevocartoon'
-    position: 'Director Técnico y Artista de Layout'
-    period: 'Septiembre 2012 - Abril 2014 | Octubre 2017 - Octubre 2018'
+    position: 'Director Técnico & Python Developer'
+    period: 'Septiembre 2011 - Abril 2014 | Octubre 2017 - Octubre 2018'
     description: >-
       Colabore creando herramientas en python para el equipo de cinematografía y VFX. Aunque
       también tuve una participación del lado artistico colaborando en crear puestas en

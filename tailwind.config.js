@@ -5,13 +5,18 @@ module.exports = {
         fontFamily: {
             roboto: ['Roboto', 'sans-serif']
         },
-        extend: {},
+        extend: {
+            'print': {'raw': 'print'}
+        },
         colors: {
             darkGreen: '#112530',
             medGreen: '#2f4f5a',
             lightWarm: '#c4a384',
             warm: '#b56f3a',
-            pale: '#ece9e4'
+            pale: '#ece9e4',
+            white: '#eeeeee',
+            gray: '#aaaaaa',
+            black: '#333333'
         },
         scale: {
             '102': '1.02',

@@ -25,7 +25,7 @@ export default function Education() {
                     return (
                         <div
                             key={uuid()}
-                            className='bg-green'>
+                            className='bg-green text-lg'>
                             <div>
                                 <div
                                     className='text-2xl font-bold flex flex-row items-center flex-wrap'>
@@ -33,7 +33,7 @@ export default function Education() {
                                 </div>
                                 <Icons icons={c.icons}/>
                             </div>
-                            <div className='font-medium text-md'>
+                            <div className='font-medium'>
                                 {c.title}
                             </div>
                             <div className='break-all'>
